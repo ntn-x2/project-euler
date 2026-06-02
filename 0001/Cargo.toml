@@ -1,3 +1,4 @@
 [package]
 name = "project-euler-0001"
 version.workspace = true
+edition.workspace = true

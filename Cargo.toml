@@ -1,8 +1,9 @@
 [workspace.package]
 version = "0.0.0"
 repository = "https://github.com/ntn-x2/project-euler"
-edition = "2021"
+edition = "2024"
 publish = false
 
 [workspace]
 members = ["0001", "0002"]
+resolver = "3"
